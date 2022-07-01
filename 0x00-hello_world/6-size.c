@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /*
  *Main - prints the size of various types
  * Return: 0 if existed properly, non-zero otherwize
